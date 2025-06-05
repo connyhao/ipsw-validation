@@ -1,3 +1,27 @@
 {
-  "expire_time": "2025-05-15 12:00:00"
+  "expire_time": "2026-01-01 00:00:00",
+  "series_names": {
+    "iPad_64bit_TouchID_ASTC": "iPad 6",
+    "iPad_10.2": "iPad 7",
+    "iPad_10.2_2020": "iPad 8",
+    "iPad_10.2_2021": "iPad 9",
+    "iPad_Fall_2022": "iPad 10",
+    "iPad15,7": "iPad A16 Wi-Fi",
+    "iPad15,8": "iPad A16 Wi-Fi & Cellular",
+    "iPad_Fall_2020": "iPad Air 4",
+    "iPad_Spring_2022": "iPad Air 5",
+    "iPad15,3,iPad15,4,iPad15,5,iPad15,6": "iPad Air M3",
+    "iPad_Fall_2021": "iPad mini 6",
+    "iPad16,1,iPad16,2": "iPad mini A17 Pro",
+    "iPad_Pro_HFR": "iPad Pro",
+    "iPad Air M2": "iPad_Air_M2",
+    "iPad Pro M4": "iPad_Pro_M4",
+    "iPhone11,2,iPhone11,4,iPhone11,6": "iPhone XS & iPhone XS Max",
+    "iPhone13,2,iPhone13,3": "iPhone 12 & iPhone 12 Pro",
+    "iPhone12,3,iPhone12,5": "iPhone 11 Pro & iPhone 11 Pro Max",
+    "iPad14,3,iPad14,4,iPad14,5,iPad14,6": "iPad Pro 4th & iPad Pro 6th",
+    "iPad_Pro_Spring_2021": "iPad Pro 3rd & iPad Pro 5rd",
+    "iPad_Pro_A12X_A12Z": "iPad Pro 3 & iPad Pro 4",
+    "iPad_Spring_2019": "iPad mini 5 & iPad Air 3"
+  }
 }

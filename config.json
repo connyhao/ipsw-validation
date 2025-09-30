@@ -44,5 +44,9 @@
     "iPhone14,6":"iPhone SE 3rd",
     "iPhone11,8":"iPhone XR",
     "iPhone11,2&iPhone11,6":"iPhone XS & iPhone XS Max"
-  }
+  },
+  "device_types": [
+    "iPhone",
+    "iPad",
+  ]
 }
